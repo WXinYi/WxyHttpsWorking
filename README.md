@@ -24,7 +24,17 @@
 
 
 
-### 注：由于cer证书是真实的项目在用，不便提供，因为没有找到合适的请求链接所以Demo中没有演示，敬请谅解。
+###### 注：由于cer证书是真实的项目在用，不便提供，因为没有找到合适的请求链接所以Demo中没有演示，敬请谅解。
+
+
+## 相关阅读
+[ATS配置官方说明 (官方文档第一)](https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Articles/CocoaKeys.html#//apple_ref/doc/uid/TP40009251-SW33)
+
+[《HTTPS权威指南》- SSL、TLS和密码学学习笔记](https://gold.xitu.io/post/5856b15dac502e0067ef48cc)
+
+[《HTTPS权威指南》-协议学习笔记](https://gold.xitu.io/post/5857f7d9ac502e0067008044?utm_source=gold_browser_extension)
+
+[苹果强制使用HTTPS传输后APP开发者必须知道的事](https://gold.xitu.io/post/5859ed8c8e450a006c85529f?utm_source=gold_browser_extension)
 
 
 ## 许可证
