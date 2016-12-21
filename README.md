@@ -34,7 +34,9 @@
 
 [《HTTPS权威指南》-协议学习笔记](https://gold.xitu.io/post/5857f7d9ac502e0067008044?utm_source=gold_browser_extension)
 
-[苹果强制使用HTTPS传输后APP开发者必须知道的事](https://gold.xitu.io/post/5859ed8c8e450a006c85529f?utm_source=gold_browser_extension)
+[《HTTPS权威指南》-公钥基础设施（PKI）学习笔记](https://gold.xitu.io/post/5859ed8c8e450a006c85529f?utm_source=gold_browser_extension)
+
+[苹果强制使用HTTPS传输后APP开发者必须知道的事](http://wetest.qq.com/lab/view/274.html)
 
 
 ## 许可证
